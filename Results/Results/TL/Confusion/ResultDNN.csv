@@ -1,0 +1,9 @@
+,DenseNet201,EfficientNetB3,InceptionResNetV2
+Accuracy,86.788,91.431,91.382
+Validation Accuracy,86.323,89.891,89.594
+Precision,90.34,93.42,93.48
+Validation Precision,90.292,90.404,90.558
+Recall,82.38,88.608,88.051
+Validation Recall,84.044,89.197,88.404
+Loss,0.472,0.379,0.394
+Validation Loss,0.536,0.418,0.442

@@ -1,0 +1,5 @@
+,Train/Valid,Data,Accuracy,Loss,Precision,Recall
+0,Training,IID,96.97,0.08,97.06,96.78
+1,Training,Non-IID,97.78,0.06,97.83,97.62
+0,Validation,IID,97.16,0.09,97.76,97.04
+1,Validation,Non-IID,97.11,0.08,97.71,97.0
